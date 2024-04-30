@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Robin</h1>
+<h2 align="center">👋 Hello, I'm Robin</h2>
 <h3 align="center">🌐 Full-Stack Software Engineer | Computer Science Graduate</h3>
 <p align="center">
   <img width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation">
