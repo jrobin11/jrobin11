@@ -80,8 +80,14 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrobin11&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true" alt="jrobin11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrobin11&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="jrobin11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrobin11&theme=tokyonight" alt="jrobin11" /></p>
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrobin11&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true" alt="jrobin11 languages" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=jrobin11&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="jrobin11 stats" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrobin11&theme=tokyonight" alt="jrobin11 streaks" />
+  </div>
+</div>
