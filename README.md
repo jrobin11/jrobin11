@@ -92,4 +92,3 @@
   </div>
 </div>
 
-![snake gif](https://github.com/jrobin11/jrobin11/blob/output/github-contribution-grid-snake.gif)
