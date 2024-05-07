@@ -91,3 +91,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrobin11&theme=gotham" alt="jrobin11 streaks" />
   </div>
 </div>
+
+![snake gif](https://github.com/jrobin11/jrobin11/blob/output/github-contribution-grid-snake.gif)
