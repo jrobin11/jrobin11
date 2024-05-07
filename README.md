@@ -91,5 +91,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrobin11&theme=tokyonight" alt="jrobin11 streaks" />
   </div>
 </div>
-
-<img src="https://raw.githubusercontent.com/jrobin11/jrobin11/output/snake.svg" alt="Snake animation" />
