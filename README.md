@@ -82,12 +82,12 @@
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrobin11&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true" alt="jrobin11 languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrobin11&show_icons=true&locale=en&layout=compact&theme=gotham&count_private=true" alt="jrobin11 languages" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=jrobin11&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="jrobin11 stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jrobin11&show_icons=true&locale=en&theme=gotham&count_private=true" alt="jrobin11 stats" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrobin11&theme=tokyonight" alt="jrobin11 streaks" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrobin11&theme=gotham" alt="jrobin11 streaks" />
   </div>
 </div>
